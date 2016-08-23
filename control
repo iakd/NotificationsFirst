@@ -1,0 +1,9 @@
+Package: de.iakdev.notificationsfirst
+Name: NotificationsFirst
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Swap Today and Notifications pages in NC
+Maintainer: iakd
+Author: iakd
+Section: Tweaks
